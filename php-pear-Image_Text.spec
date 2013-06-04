@@ -46,8 +46,7 @@ install -m 644 %{upstream_name}.xml %{buildroot}%{_datadir}/pear/packages
 
 
 %files
-%defattr(-,root,root)
-%doc %{upstream_name}-%{version}/example
+%doc %{upstream_name}-%{version}/example %{_datadir}/pear/data/%{upstream_name}
 %{_bindir}/make_docbook.sh
 %{_bindir}/make_dochtml.sh
 %{_datadir}/pear/%{_class}/*.php
