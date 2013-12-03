@@ -3,7 +3,7 @@
 %define		upstream_name	%{_class}_%{_subclass}
 
 Name:		php-pear-%{upstream_name}
-Version:	0.6.1
+Version:	0.7.0
 Release:	1
 Summary:	Comfortable processing of texts in images
 License:	PHP License
@@ -117,5 +117,6 @@ install -m 644 %{upstream_name}.xml %{buildroot}%{_datadir}/pear/packages
 
 * Tue Jul 19 2005 Oden Eriksson <oeriksson@mandriva.com> 0.5.0-1mdk
 - initial Mandriva package (PLD import)
+
 
 

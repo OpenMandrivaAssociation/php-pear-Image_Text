@@ -1,4 +1,5 @@
 removed_sources:
   Image_Text-0.5.0.tar.bz2: da4b8578c9fc5ea3b078aeeb79b44284e65b972e
-sources:
   Image_Text-0.6.1.tgz: 7d8043af5812a05c01880feb02b1e21c21c97457
+sources:
+  Image_Text-0.7.0.tgz: 279148d89d869cc5da9bf0b26ef00156a7ebfd6e
