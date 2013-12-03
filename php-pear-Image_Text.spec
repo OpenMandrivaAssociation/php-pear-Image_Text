@@ -50,6 +50,7 @@ install -m 644 %{upstream_name}.xml %{buildroot}%{_datadir}/pear/packages
 %doc %{_datadir}/pear/data/%{upstream_name}
 %{_datadir}/pear/%{_class}/*.php
 %{_datadir}/pear/packages/%{upstream_name}.xml
+%{php_pear_dir}/Image/Text/Exception.php
 
 
 %changelog
