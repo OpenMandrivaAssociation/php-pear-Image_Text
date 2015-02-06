@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.7.0
-Release:	1
+Release:	2
 Summary:	Comfortable processing of texts in images
 License:	PHP License
 Group:		Development/PHP
