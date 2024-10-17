@@ -8,7 +8,7 @@ Release:	2
 Summary:	Comfortable processing of texts in images
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Image_Text/
+URL:		https://pear.php.net/package/Image_Text/
 Source0:	http://download.pear.php.net/package/Image_Text-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
